@@ -1,6 +1,0 @@
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\ui\screens\WebViewScreen.kt
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\ui\screens\HomeScreen.kt
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\ui\screens\SettingsScreen.kt
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\ui\theme\Color.kt
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\ui\theme\Theme.kt
-D:\8 - GitHub PiBOH\repository\Arena AI_APK android\Arena AI_V1.0.1f_STABLE\app\src\main\java\com\arenaai\app\MainActivity.kt
