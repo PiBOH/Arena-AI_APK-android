@@ -1,4 +1,4 @@
-package com.agon.app.ui.screens
+package com.arenaai.app.ui.screens
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -24,7 +24,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.viewinterop.AndroidView
-import com.agon.app.showAppInfoDialog
+import com.arenaai.app.showAppInfoDialog
 
 class WebAppInterface {
     @JavascriptInterface
