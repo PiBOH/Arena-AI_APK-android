@@ -1,2 +1,4 @@
-# Arena-AI_APK-android
+# [DEPRECATED]
+## CHECK THE NEW REPOSITORY HERE https://github.com/PiBOH/Arena-AI
+### Arena-AI_APK-android
 il sito di arena ai un una comoda app android
